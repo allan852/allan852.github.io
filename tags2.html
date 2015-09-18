@@ -1,0 +1,31 @@
+---
+layout: page
+title: Tags
+header: Posts By Tag
+group: no-navigation
+theme: pure
+---
+{% include JB/setup %}
+
+<link rel="stylesheet" href="public/tags.1.0.0.css">
+<div id="root"></div>
+<script>
+    var tags = [
+        {% for tag in site.tags %}
+            {
+                text: '{{ tag[0] }}',
+                freq: {{ tag[1].size }},
+                posts: [
+                    {% for post in tag[1] %}
+                        {
+                            title: '{{ post.title }}',
+                            url: '{{ BASE_PATH }}{{ post.url }}',
+                            date: '{{ post.date | date: "%Y-%m-%d" }}'
+                        },
+                    {% endfor %}
+                ]
+            },
+        {% endfor %}
+    ];
+</script>
+<script src="public/tags.1.0.0.js"></script>

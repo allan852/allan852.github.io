@@ -9,8 +9,8 @@ group: "navigation"
 
 ### 关于我
 
-未出师程序员一枚，CS在读研究生  
-熟悉C语言，会用C++，能写Java，略懂Python
+非科班程序员一枚 
+熟悉Python, Javascript, Ruby 能写点CSS
 
 ### 关于网站
 
@@ -18,23 +18,16 @@ group: "navigation"
 
 #### 技术
 
-* 网站源码：<https://github.com/iEverX/ieverx.github.com>
+* 网站源码：<https://github.com/allan852/allan852.github.io>
 * [Jekyll][]
 * [jQuery][]
 * [purecss][]
 * [d3.js][], [d3-cloud][]
 
+### 源码说明
+
+模板Fork <https://github.com/iEverX/ieverx.github.com>
+
 ### 联系我？
 
-我的邮箱：ever(at)evercoding.net  
-新浪微博: [iEverX][weibo]，有事没事就去逛逛  
-github：[iEverX][github]，我的一些代码可以在这里找到  
-
-[weibo]: http://weibo.com/ieverx
-[github]: http://github.com/iEverX
-[Jekyll]: http://jekyllrb.com "Transform your plain text into static websites and blogs"
-[Twitter Bootstrap]: http://twitter.github.com/bootstrap/
-[jQuery]: http://jquery.com
-[purecss]: http://purecss.io
-[d3.js]: http://d3js.org
-[d3-cloud]: https://github.com/jasondavies/d3-cloud
+我的邮箱：zouyingjun(at)live.com

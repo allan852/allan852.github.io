@@ -15,16 +15,16 @@ kramdown:
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : 天外天
-address: EverCoding.net
-tagline: 天外有天，山外有山
+title : ZturnLabs
+address: ZturnLabs.com
+tagline: Life is a struggle
 author :
-  name : Ever
-  email : g.everax@gmail.com
-  github : iEverX
+  name : ZouYingjun
+  email : zouyingjun@live.com
+  github : allan852
   twitter : username
   feedburner : feedname
-start_year: "2012"
+start_year: "2015"
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -34,7 +34,7 @@ start_year: "2012"
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://blog.EverCoding.net
+production_url : http://www.zturnlabs.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -109,13 +109,13 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-54098391-1'
+        tracking_id : ''
     baidu:
-        num: '286a0fd3582530031faa80f383f53a77'
+        num: ''
     getclicky :
       site_id :
     mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+        token : ''
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.

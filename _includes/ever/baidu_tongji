@@ -1,4 +1,4 @@
-{% if site.JB.analytics.baidu.num != "286a0fd3582530031faa80f383f53a77" or site.production_url == 'http://blog.EverCoding.net' %}
+{% if site.JB.analytics.baidu.num != "286a0fd3582530031faa80f383f53a77" or site.production_url == 'http://www.Zturnlabs.com' %}
     <script>
     var _hmt = _hmt || [];
     (function() {
